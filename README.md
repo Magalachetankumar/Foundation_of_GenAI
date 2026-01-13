@@ -1,4 +1,4 @@
-Prompt for image generation 
+Prompt for image generation:
 Create a professional academic poster for a workshop titled 
 "Foundations of Generative AI".
 
@@ -12,7 +12,7 @@ Color theme should be blue and purple with a high-resolution,
 minimalistic, and professional look.
 Date: 14-01-2026 Time: 9:30 Venue : RV University
 
-Prompt for video generation
+Prompt for video generation:
 Create a dynamic 30–40 second cinematic promotional VIDEO (not images, not explanations) for a university workshop titled:
 “Generative AI Tools and Applications.”
 The output must feel like a real-world moving video with continuous motion, camera movement, animated elements, and smooth transitions.
